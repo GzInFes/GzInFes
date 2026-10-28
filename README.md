@@ -5,7 +5,7 @@ I'm an ordinary YouTuber from China.
 # Work in
 
 **DLCE**, Minecraft
-- Main edits to the DLCE wiki annotations
+- Main edits to the DLCE wiki annotations.
 
 # Personal link
 
