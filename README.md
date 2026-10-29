@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm an ordinary YouTuber from China.
+I'm a bilibili YouTuber from China.
 
 # Work in
 
