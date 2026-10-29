@@ -1,13 +1,23 @@
 # Who am I?
-![Introduce myself](https://img.shields.io/badge/Dancing Line Community Edition-red.svg)
 
-I'm a bilibili YouTuber from China.
+## I'm a bilibili YouTuber from China.
+
+Here's my basic introduction, nothing more than that.
 
 # Work in
-![Dancing Line Community Edition](https://img.shields.io/badge/Dancing Line Community Edition-blue.svg)
 
-**DLCE**, Minecraft
-- Main edits to the DLCE wiki annotations.
+## **DLCE**, Minecraft
+
+Main editor is DLCE, The main tasks are as follows:
+- Update the content promptly;
+- Translate various contents (such as English, Traditional Chinese, etc.);
+- Provide relevant annotations.
+
+Regarding the Minecraft, Review the wiki content.
+
+# ~preference~
+
+SCP, Minecraft, Phigros, DL
 
 # Personal link
 
