@@ -6,18 +6,18 @@ Here's my basic introduction, nothing more than that.
 
 # Work in
 
-## **DLCE**, Minecraft
+## **DLCE**, Minecraft, SCP
 
 Main editor is DLCE, The main tasks are as follows:
 - Update the content promptly;
 - Translate various contents (such as English, Traditional Chinese, etc.);
 - Provide relevant annotations.
 
-Regarding the Minecraft, Review the wiki content.
+Regarding the Minecraft and SCP, Review the wiki content.
 
-# ~preference~
+# ~preference~(None)
 
-SCP, Minecraft, Phigros, DL
+SCP Foundation, Minecraft, Phigros, DL(Dancing Line), Brawl Star, FNAF, MO(RA mod).
 
 # Personal link
 
